@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on as an obstetrician and gynecologist.
 - 🌱 I’m currently learning HTML,CSS.
-- 
+- 📫 How to reach me: linkedin.com/in/nermin-atar-660737185
 
 <!--
 - 🔭 I’m currently working on ...
