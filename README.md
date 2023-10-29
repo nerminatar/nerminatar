@@ -1,7 +1,18 @@
 ### Hi there 👋
-- 🔭 I’m currently working on as an obstetrician and gynecologist.
-- 🌱 I’m currently learning HTML,CSS.
 
+- I'm an Obstetrics and Gynecologist Specialist, but I'm also a passionate individual exploring the world of Front-End Development. I have a strong desire to make an impact in both the healthcare sector and the tech world.
+- 🌼 I'm familiar with basic web technologies like HTML, CSS, and JavaScript.
+- 🚀 I'm currently diving deeper into JavaScript.
+- 🤝 I'm open to teamwork and collaboration.
+- 💡 I believe in the importance of using technology for increased productivity in the age of consumption.
+
+You can find more information about my journey of acquiring new skills and my projects on GitHub. Feel free to follow me; we can make great strides together!
+
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/nermin-atar-660737185/).
+
+I'm here to keep growing and always open to new projects and collaboration opportunities. Thank you!
+
+Nermin ATAR
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
